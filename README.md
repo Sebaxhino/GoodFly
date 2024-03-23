@@ -1,6 +1,6 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GoodFlyMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-<h3><b>GoodFly</b> es un bot de música avanzada, que tiene todos los comandos necesarios para escuchar música, listas de reproducciones, filtros y mucho más!
+<h3>Hola, soy un bot gratuito que ofrece una facilidad de funciones para escuchar música en tu servidor de Discord. GoodFly es un bot de música avanzada, que tiene todos los comandos necesarios para escuchar música, listas de reproducciones, filtros y mucho más!
 Además incluye un sistema de botones para que le sea más fácil e útil para interactuar con el dispositivo.</h3>
 <hr>
 
