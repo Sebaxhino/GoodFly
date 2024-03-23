@@ -21,6 +21,6 @@
 -   ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=plastic&logo=soundcloud&logoColor=white)
 -   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
 -   ![Bandcamp](https://img.shields.io/badge/Bandcamp-629AA9?style=plastic&logo=bandcamp&logoColor=white)
--   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
 -   ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=plastic&logo=twitch&logoColor=white)
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
+-   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
