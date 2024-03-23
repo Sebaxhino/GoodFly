@@ -3,17 +3,19 @@
 
 ## 🔥 Funciones:
 
-- Sistema de música avanzado.
-- Prefijo personalizable.
-- Potente motor de búsqueda.
-- Más de 20 filtros de música.
-- Manejo de comandos híbridos. (Comandos diagonales y normales).
-- Altamente configurable.
-- Fácil de usar y fácil de usar.
-- Reproducción de música 24 horas al día, 7 días a la semana.
-- Comandos de lista de reproducción.
-- Configurar canal de música.
-- Sistema AntiScam automatizado.
+-  Sistema de música avanzado con botones.
+-  Canal de solicitud de canción.
+-  Modo 24/7.
+-  Comandos de barra diagonal.
+-  Filtros personalizados.
+-  Sistema de lista de reproducción.
+-  Reproducir canción usando archivo.
+-  Sistema de enfriamiento.
+-  Sistema de fragmentos.
+-  Reconexión automática.
+-  Pausa/reanudación automática.
+-  Búsqueda automática completa.
+-  Sistema AntiScam automatizado.
 
 ## 🎶 Fuentes:
 
