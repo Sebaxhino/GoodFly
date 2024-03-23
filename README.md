@@ -1,6 +1,6 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GoodFlyMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-[Discord](https://img.shields.io/badge/Discord-404EED?style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-404EED?style=for-the-badge)
 <hr>
 
 ## 🔥 Funciones:
