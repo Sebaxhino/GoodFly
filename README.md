@@ -7,16 +7,21 @@
 
 -  Sistema de música avanzado con botones.
 -  Canal de solicitud de canción.
+-  Prefijo personalizable.
 -  Modo 24/7.
--  Comandos de barra diagonal.
+-  Comandos de barra diagonal y normales.
 -  Filtros personalizados.
 -  Sistema de lista de reproducción.
 -  Sistema de enfriamiento.
 -  Sistema de fragmentos.
 -  Reconexión automática.
 -  Pausa/reanudación automática.
--  Búsqueda automática completa.
+-  Comandos de lista de reproducción.
+-  Potente motor de búsqueda.
+-  Altamente configurable.
+-  Fácil de usar y fácil de usar
 -  Sistema AntiScam automatizado.
+-  Configurar canal de música.
 
 ## 🎶 Fuentes:
 
