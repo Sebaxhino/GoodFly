@@ -24,3 +24,5 @@
 -   ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=plastic&logo=twitch&logoColor=white)
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 -   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
+
+🌐 [Website](https://img.shields.io/badge/Web-FF0000?style=plastic&logo=web&logoColor=white)
