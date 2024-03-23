@@ -1,8 +1,6 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GoodFlyMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-<h2>GoodFly es un bot de música avanzada que tiene más de 50 comandos / características diferentes con un registrador social para muchas plataformas.</h2>
-
-<h3>GoodFly tiene todos los comandos necesarios para escuchar música, listas de reproducciones, filtros y mucho más!
+<h3>GoodFly es un bot de música avanzada, que tiene todos los comandos necesarios para escuchar música, listas de reproducciones, filtros y mucho más!
 Además incluye un sistema de botones para que le sea más fácil e útil para interactuar con el dispositivo.</h3>
 <hr>
 
