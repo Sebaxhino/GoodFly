@@ -3,6 +3,8 @@
 
 ## 🔥 Funciones:
 
+-   ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white) [Discord.js](https://discord.js.org/#/)
+
 - Sistema de música avanzado.
 - Prefijo personalizable.
 - Potente motor de búsqueda.
