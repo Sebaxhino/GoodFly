@@ -16,7 +16,7 @@
 - Sistema AntiScam automatizado.
 
 ## 🎶 Fuentes:
-
+-   ![Invite](https://img.shields.io/badge/Invite-FF0000?style=plastic&logo=youtube&logoColor=white)
 -   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)
 -   ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=plastic&logo=soundcloud&logoColor=white)
 -   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
