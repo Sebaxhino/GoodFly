@@ -38,3 +38,13 @@ Además incluye un sistema de botones para que le sea más fácil e útil para i
 🌐 [Website](https://goodfly.ar/)
 <br>
 🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
+
+## 📜 Contribuyendo:
+
+¡Gracias por tu interés en contribuir con GoodFly! Aquí hay algunas pautas a seguir al contribuir:
+
+1. Bifurque el repositorio y cree una nueva rama para su función o corrección de errores.
+2. Escriba código limpio y conciso que siga el estilo de codificación establecido.
+3. Cree documentación detallada y exhaustiva para cualquier característica nueva o cambio.
+4. Escriba y ejecute pruebas para su código.
+5. Envíe una solicitud de extracción con sus cambios.
