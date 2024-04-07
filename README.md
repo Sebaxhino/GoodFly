@@ -4,6 +4,13 @@
 Además incluye un sistema de botones para que le sea más fácil e útil para interactuar con el dispositivo.</h3>
 <hr>
 
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 ## 🔥 Funciones:
 
 -  Sistema de música avanzado con botones.
