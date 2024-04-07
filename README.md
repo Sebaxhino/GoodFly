@@ -4,7 +4,7 @@
 Además incluye un sistema de botones para que le sea más fácil e útil para interactuar con el dispositivo.</h3>
 <hr>
 
-## 🔥 Funciones:
+## 💎 Funciones:
 
 -  Sistema de música avanzado con botones.
 -  Canal de solicitud de canción.
