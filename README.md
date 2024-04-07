@@ -44,7 +44,5 @@ Además incluye un sistema de botones para que le sea más fácil e útil para i
 ¡Gracias por tu interés en contribuir con GoodFly! Aquí hay algunas pautas a seguir al contribuir:
 
 1. Bifurque el repositorio y cree una nueva rama para su función o corrección de errores.
-2. Escriba código limpio y conciso que siga el estilo de codificación establecido.
-3. Cree documentación detallada y exhaustiva para cualquier característica nueva o cambio.
-4. Escriba y ejecute pruebas para su código.
-5. Envíe una solicitud de extracción con sus cambios.
+2. Cree documentación detallada y exhaustiva para cualquier característica nueva o cambio.
+3. Envíe una solicitud de extracción con sus cambios.
