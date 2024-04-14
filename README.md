@@ -45,4 +45,4 @@ It also includes a button system to make it easier and more useful to interact w
 
 🌐 [Website](https://goodfly.ar/)
 <br>
-🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
+🔗 [Invite Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
