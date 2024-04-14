@@ -1,6 +1,6 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=GoodFlyMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<img src="https://i.imgur.com/blgBDOw.gif" height="100"></img></center>
+<img src="https://i.imgur.com/blgBDOw.gif" height="200"></img></center>
 
 <h3>Hello, I am a free bot that offers a feature facility to listen to music on your Discord server. GoodFly is an advanced music bot, which has all the necessary commands for listening to music, playlists, filters and much more.
 It also includes a button system to make it easier and more useful to interact with the device.</h3>
