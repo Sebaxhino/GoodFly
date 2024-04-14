@@ -1,30 +1,10 @@
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GoodFlyMusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-<h3>Hola, soy un bot gratuito que ofrece una facilidad de funciones para escuchar música en tu servidor de Discord. GoodFly es un bot de música avanzada, que tiene todos los comandos necesarios para escuchar música, listas de reproducciones, filtros y mucho más!
-Además incluye un sistema de botones para que le sea más fácil e útil para interactuar con el dispositivo.</h3>
+<h3>Hello, I am a free bot that offers a feature facility to listen to music on your Discord server. GoodFly is an advanced music bot, which has all the necessary commands for listening to music, playlists, filters and much more.
+It also includes a button system to make it easier and more useful to interact with the device.</h3>
 <hr>
 
-## 💎 Funciones:
-
--  Sistema de música avanzado con botones.
--  Canal de solicitud de canción.
--  Prefijo personalizable.
--  Modo 24/7.
--  Comandos de barra diagonal y normales.
--  Filtros personalizados.
--  Sistema de lista de reproducción.
--  Sistema de enfriamiento.
--  Sistema de fragmentos.
--  Reconexión automática.
--  Pausa/reanudación automática.
--  Comandos de lista de reproducción.
--  Potente motor de búsqueda.
--  Altamente configurable.
--  Fácil de usar y fácil de usar
--  Sistema AntiScam automatizado.
--  Configurar canal de música.
-
-## 🎶 Fuentes:
+## 📌 Next Update:
 
 -   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)
 -   ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=plastic&logo=soundcloud&logoColor=white)
@@ -32,17 +12,35 @@ Además incluye un sistema de botones para que le sea más fácil e útil para i
 -   ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=plastic&logo=twitch&logoColor=white)
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 -   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
+-   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) ([Required Plugin][LavaSrc])
+-   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white) ([Required Plugin][LavaSrc])
+-   ![Apple Music](https://img.shields.io/badge/Apple%20Music-000000?style=plastic&logo=apple-music&logoColor=white) ([Required Plugin][LavaSrc])
+-   ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white) ([Required Plugin][LavaSrc])
+-   ![Mixcloud](https://img.shields.io/badge/Mixcloud-51C4D3?style=plastic&logo=mixcloud&logoColor=white) ([Required Plugin][skybot-lavalink-plugin])
+-   ![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=plastic&logo=tiktok&logoColor=white) ([Required Plugin][skybot-lavalink-plugin])
 
-## 🌐 Redes:
+## 💎 Features:
+
+- Advanced music system with buttons.
+- Song request channel.
+- Customizable prefix.
+- 24/7 mode.
+- Slash and normal slash commands.
+- Custom filters.
+- Playlist system.
+- Cooling system.
+- Fragment system.
+- Automatic reconnection.
+- Automatic pause/resume.
+- Playlist commands.
+- Powerful search engine.
+- Highly configurable.
+- Easy to use and easy to use
+- Automated AntiScam System.
+- Configure music channel.
+
+## 🌐 Follow us:
 
 🌐 [Website](https://goodfly.ar/)
 <br>
 🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
-
-## 📜 Contribuyendo:
-
-¡Gracias por tu interés en contribuir con GoodFly! Aquí hay algunas pautas a seguir al contribuir:
-
-1. Bifurque el repositorio y cree una nueva rama para su función o corrección de errores.
-2. Cree documentación detallada y exhaustiva para cualquier característica nueva o cambio.
-3. Envíe una solicitud de extracción con sus cambios.
