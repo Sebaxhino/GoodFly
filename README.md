@@ -12,12 +12,12 @@ It also includes a button system to make it easier and more useful to interact w
 -   ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=plastic&logo=twitch&logoColor=white)
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 -   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
--   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white) ([Required Plugin][LavaSrc])
--   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white) ([Required Plugin][LavaSrc])
--   ![Apple Music](https://img.shields.io/badge/Apple%20Music-000000?style=plastic&logo=apple-music&logoColor=white) ([Required Plugin][LavaSrc])
--   ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white) ([Required Plugin][LavaSrc])
--   ![Mixcloud](https://img.shields.io/badge/Mixcloud-51C4D3?style=plastic&logo=mixcloud&logoColor=white) ([Required Plugin][skybot-lavalink-plugin])
--   ![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=plastic&logo=tiktok&logoColor=white) ([Required Plugin][skybot-lavalink-plugin])
+-   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
+-   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)
+-   ![Apple Music](https://img.shields.io/badge/Apple%20Music-000000?style=plastic&logo=apple-music&logoColor=white)
+-   ![Yandex Music](https://img.shields.io/badge/Yandex%20Music-FF0066?style=plastic&logo=yandex-music&logoColor=white)
+-   ![Mixcloud](https://img.shields.io/badge/Mixcloud-51C4D3?style=plastic&logo=mixcloud&logoColor=white)
+-   ![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=plastic&logo=tiktok&logoColor=white)
 
 ## 💎 Features:
 
