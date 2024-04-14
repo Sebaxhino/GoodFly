@@ -39,6 +39,7 @@ It also includes a button system to make it easier and more useful to interact w
 - Automated AntiScam System.
 - Configure music channel.
 - Premium system.
+- Multi languages.
 
 ## 🌐 Follow us:
 
