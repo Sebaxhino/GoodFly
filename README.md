@@ -26,6 +26,7 @@ It also includes a button system to make it easier and more useful to interact w
 - Premium system.
 - Multi languages.
   
+## 🔻 Sources:
 
 -   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)
 -   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
