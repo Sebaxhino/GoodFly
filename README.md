@@ -40,6 +40,6 @@ It also includes a button system to make it easier and more useful to interact w
 
 ## 🌐 Follow us:
 
-🌐 [Website](https://goodfly.ar/)
+🌐 [Instagram](https://www.instagram.com/goodfly.ar)
 <br>
 🔗 [Invite Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
