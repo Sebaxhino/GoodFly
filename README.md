@@ -41,4 +41,4 @@ También incluye un sistema de botones para que sea más fácil y útil interact
 <br>
 🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
 <br>
-🔗 [Soporte](https://discord.com/channels/@me/732001248198393948)
+⚙️ [Soporte](https://discord.com/channels/@me/732001248198393948)
