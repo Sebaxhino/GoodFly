@@ -1,30 +1,25 @@
 <center><img src="https://i.imgur.com/blgBDOw.gif" height="450"></img></center>
 
-<h3>Hello, I am a free bot that offers a feature facility to listen to music on your Discord server. GoodFly is an advanced music bot, which has all the necessary commands for listening to music, playlists, filters and much more.
-It also includes a button system to make it easier and more useful to interact with the device.</h3>
+<h3>Hola, soy un bot gratuito que ofrece funciónes para escuchar música en tu servidor Discord. GoodFly es un robot de música avanzado, que tiene todos los comandos necesarios para escuchar música, listas de reproducción, filtros y mucho más.
+También incluye un sistema de botones para que sea más fácil y útil interactuar con el dispositivo.</h3>
 <hr>
 
 ## 💎 Features:
 
-- Advanced music system with buttons.
-- Song request channel.
-- Customizable prefix.
-- 24/7 mode.
-- Slash and normal slash commands.
-- Custom filters.
-- Playlist system.
-- Cooling system.
-- Fragment system.
-- Automatic reconnection.
-- Automatic pause/resume.
-- Playlist commands.
-- Powerful search engine.
-- Highly configurable.
-- Easy to use and easy to use
-- Automated AntiScam System.
-- Configure music channel.
-- Premium system.
-- Multi languages.
+- Sistema de música avanzado con botones.
+- 24/7.
+- Comandos de barra diagonal.
+- Filtros personalizados.
+- Sistema de lista de reproducción.
+- Sistema de refrigeración.
+- Sistema de fragmentos.
+- Reconexión automática.
+- Pausa/reanudación automática.
+- Comandos de lista de reproducción.
+- Potente motor de búsqueda.
+- Altamente configurable.
+- Fácil de usar.
+- Configurar canal de música.
   
 ## 🔻 Sources:
 
