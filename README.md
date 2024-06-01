@@ -18,6 +18,8 @@ También incluye un sistema de botones para que sea más fácil y útil interact
 - Comandos de lista de reproducción.
 - Potente motor de búsqueda.
 - Altamente configurable.
+- Sistema de roles DJ.
+- Sistema de hilo para comandos de música.
 - Fácil de usar.
 - Configurar canal de música.
   
