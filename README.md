@@ -4,7 +4,7 @@
 También incluye un sistema de botones para que sea más fácil y útil interactuar con el dispositivo.</h3>
 <hr>
 
-## 💎 Features:
+## 💎 Características:
 
 - Sistema de música avanzado con botones.
 - 24/7.
@@ -21,7 +21,7 @@ También incluye un sistema de botones para que sea más fácil y útil interact
 - Fácil de usar.
 - Configurar canal de música.
   
-## 🔻 Sources:
+## 🔻 Fuentes:
 
 -   ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)
 -   ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=plastic&logo=spotify&logoColor=white)
@@ -33,8 +33,8 @@ También incluye un sistema de botones para que sea más fácil y útil interact
 -   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
 -   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)
 
-## 🌐 Follow us:
+## 🌐 Síganos:
 
 🌐 [Instagram](https://www.instagram.com/goodfly.ar)
 <br>
-🔗 [Invite Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
+🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
