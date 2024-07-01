@@ -1,4 +1,4 @@
-<center><img src"https://i.imgur.com/ofq3vpE.gif" height="450"></img></center>
+<center><img src"https://i.imgur.com/MlRMOME.gif" height="450"></img></center>
 
 <h3>Hola, soy un bot gratuito que ofrece funciónes para escuchar música en tu servidor Discord. GoodFly es un robot de música avanzado, que tiene todos los comandos necesarios para escuchar música, listas de reproducción, filtros y mucho más.
 También incluye un sistema de botones para que sea más fácil y útil interactuar con el dispositivo.</h3>
