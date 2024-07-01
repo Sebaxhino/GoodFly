@@ -37,7 +37,7 @@ También incluye un sistema de botones para que sea más fácil y útil interact
 
 ## 🌐 Síganos:
 
-🌐 [Instagram](https://www.instagram.com/goodfly.ar)
+🌐 [Web](https://goodflyapp.com/)
 <br>
 🔗 [Invitar Bot](https://discord.com/oauth2/authorize?client_id=881631194008145940&scope=bot&permissions=285618564112)
 <br>
